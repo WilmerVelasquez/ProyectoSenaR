@@ -1,0 +1,23 @@
+﻿body {
+}
+.title1 {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    letter-spacing: 15px;
+    text-shadow: 2px 2px;
+}
+h2 {
+    text-align: center;
+    color: black;
+    margin-top: 40%;
+    text-shadow: 2px 2px;
+    letter-spacing: 10px;
+}
+.demo-1{
+    background-image:url(../images/1.jpg)
+        
+}
+.login-img3-body {
+    background: url(../images/3.jpg) no-repeat center center fixed;
+}
